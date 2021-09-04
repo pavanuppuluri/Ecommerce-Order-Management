@@ -1,0 +1,29 @@
+{
+    "orderId": 302,
+	"orderNumber": "P99",
+	"orderDate": "2021-09-03T08:33:53.058+00:00",
+    "destinationAddress": "HYDERABAD",
+    "orderLines": [
+        {
+            "orderLineId": 302,
+            "item": "Laptop",
+            "quantity": 1,
+            "amount": 123456.00,
+            "creationDate": "2021-09-04T09:50:12.278+00:00",
+            "lastUpdateDate": "2021-09-04T09:50:12.278+00:00"
+        },
+        {
+            "orderLineId": 303,
+            "item": "Mobile",
+            "quantity": 3,
+            "amount": 1000.00,
+            "creationDate": "2021-09-04T09:50:12.278+00:00",
+            "lastUpdateDate": "2021-09-04T09:50:12.278+00:00"
+        },
+        {
+            "item": "Ear Phones",
+            "quantity": 1,
+            "amount": 1000
+        }
+    ]
+}

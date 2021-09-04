@@ -1,0 +1,22 @@
+{
+    "orderNumber": "P99",
+    "orderDate": "2021-09-03T08:33:53.058+00:00",
+    "destinationAddress": "HYDERABAD",
+    "orderLines": [
+        {
+            "item":"Laptop",
+            "quantity":"1",
+            "amount":"123456"
+        },
+        {
+            "item":"Mobile",
+            "quantity":"1",
+            "amount":"1000"
+        },
+        {
+            "item":"Tab",
+            "quantity":"1",
+            "amount":"123456"
+        }
+    ]
+}
