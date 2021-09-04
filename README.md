@@ -5,11 +5,17 @@ In every Ecommerce application, Order creation/updation/searching/deletion exist
 In this repo, I wrote code which perform functionalities like
 
 Order create - For a given purchase order it is the first stage and occurs only once
+
 Order update - A purchase order can be updated in the following ways
+
 -------------------------> Creating a new purchase order line
+
 -------------------------> Updating quantity of an existing purchase order line
+
 -------------------------> Deleting an existing purchase order line
+
 Getting order details
+
 Order delete
 
 **To use this repo please follow below steps**
