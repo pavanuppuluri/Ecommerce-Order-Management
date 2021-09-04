@@ -1,4 +1,4 @@
-**Ecommerce-Purchase-Order-Management**
+**Ecommerce-Order-Management**
 This repo contains the code for Order Management.
 
 In every Ecommerce application, Order creation/updation/searching/deletion exists.
@@ -11,7 +11,7 @@ Order deletion
 
 **To use this repo please follow below steps**
 
-1. Clone https://github.com/pavanuppuluri/Ecommerce-Purchase-Order-Management.git
+1. Clone https://github.com/pavanuppuluri/Ecommerce-Order-Management.git
 2. You can setup mysql locally. Steps given in **mysql_local_setup_steps.doc**
 3. Now run the Spring Boot Application
 
