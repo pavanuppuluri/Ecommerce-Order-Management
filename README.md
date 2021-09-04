@@ -15,26 +15,32 @@ Order deletion
 2. You can setup mysql locally. Steps given in **mysql_local_setup_steps.doc**
 3. Now run the Spring Boot Application
 
-**Endpoint to create an order **
+
+**Endpoint to create an order**
+
 http://localhost:8080/createorder
 
 Method:           POST
 Sample Payload:   Order_Create_Payload.txt
 
 
-**Endpoint to update an order **
+**Endpoint to update an order**
+
 http://localhost:8080/createorder
+
 
 Method:           POST
 Sample Payload:   Order_Update_Payload.txt
 
-**Endpoint to get order details **
+**Endpoint to get order details**
+
 http://localhost:8080/order
 
 Method:           GET
 Input :           ID
 
-**Endpoint to delete an order **
+**Endpoint to delete an order**
+
 http://localhost:8080/deleteorder
 
 Method:           DELETE
