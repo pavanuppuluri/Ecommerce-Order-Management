@@ -22,7 +22,7 @@ http://localhost:8080/createorder
 
 Method:           POST
 
-Sample Payload:   Order_Create_Payload.txt
+Sample Payload:   **Order_Create_Payload.txt**
 
 
 **Endpoint to update an order**
@@ -32,7 +32,7 @@ http://localhost:8080/createorder
 
 Method:           POST
 
-Sample Payload:   Order_Update_Payload.txt
+Sample Payload:   **Order_Update_Payload.txt**
 
 **Endpoint to get order details**
 
