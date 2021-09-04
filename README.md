@@ -21,6 +21,7 @@ Order deletion
 http://localhost:8080/createorder
 
 Method:           POST
+
 Sample Payload:   Order_Create_Payload.txt
 
 
@@ -30,6 +31,7 @@ http://localhost:8080/createorder
 
 
 Method:           POST
+
 Sample Payload:   Order_Update_Payload.txt
 
 **Endpoint to get order details**
@@ -37,6 +39,7 @@ Sample Payload:   Order_Update_Payload.txt
 http://localhost:8080/order
 
 Method:           GET
+
 Input :           ID
 
 **Endpoint to delete an order**
@@ -44,7 +47,9 @@ Input :           ID
 http://localhost:8080/deleteorder
 
 Method:           DELETE
+
 Input :           ID
+
 
 Happy Coding!!!
 
